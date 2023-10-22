@@ -6,6 +6,7 @@ h1 {
   margin-top: 5%;
   font-size: 4em;
   color:wheat;
+  font-family: Baskerville Old Face;
 }
 
 h2 a {
@@ -13,6 +14,7 @@ h2 a {
   color:azure;
   border-radius: 5px;
   font-size: 2.5em;
+  font-family: Baskerville Old Face;
 }
 
 h2 a:hover {
